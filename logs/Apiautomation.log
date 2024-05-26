@@ -1,0 +1,401 @@
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Rohit Chandel",
+    "phone_number": "86302152525",
+    "address": "168 Vatika Park New Basoni",
+    "website": "https://www.google.com/",
+    "language": "Afaganism",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:12 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "ec3b19a1fe97cc1d8fc9351de68b63d8",
+    "scope": "APP",
+    "reference": "2358471f5b5b2595a2c91618878874eb2358471f5b5b2595a2c91618878874eb",
+    "id": "2358471f5b5b2595a2c91618878874eb"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Rinku",
+    "phone_number": "1234567892",
+    "address": "SR Nagar Bankok",
+    "website": "www.youtube.com",
+    "language": "Hindi",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:13 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "aafb9321daed14a915fb0d6199a9b738",
+    "scope": "APP",
+    "reference": "6313d1b5c1d819ff74f374995444aade6313d1b5c1d819ff74f374995444aade",
+    "id": "6313d1b5c1d819ff74f374995444aade"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=aafb9321daed14a915fb0d6199a9b738
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=aafb9321daed14a915fb0d6199a9b738
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Rinku",
+    "phone_number": "1234567892",
+    "address": "SR Nagar Bankok",
+    "website": "www.youtube.com",
+    "language": "Hindi",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:13 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 239
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-129.369",
+        "longitude": "61.245"
+    },
+    "accuracy": "145",
+    "name": "Rinku",
+    "phone_number": "1234567892",
+    "address": "SR Nagar Bankok",
+    "types": "Smaller,Medium,Larger,XLarge,XXLarge",
+    "website": "www.youtube.com",
+    "language": "Hindi"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Sonu",
+    "phone_number": "5698785989",
+    "address": "VP Court Cryprn",
+    "website": "www.qspider.com",
+    "language": "English",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "bd1e4d0e2715774278f26f110e083181",
+    "scope": "APP",
+    "reference": "bd7001d7200a7501e571bd7d873248b9bd7001d7200a7501e571bd7d873248b9",
+    "id": "bd7001d7200a7501e571bd7d873248b9"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=bd1e4d0e2715774278f26f110e083181
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=bd1e4d0e2715774278f26f110e083181
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Sonu",
+    "phone_number": "5698785989",
+    "address": "VP Court Cryprn",
+    "website": "www.qspider.com",
+    "language": "English",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:14 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 240
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-129.369",
+        "longitude": "61.245"
+    },
+    "accuracy": "145",
+    "name": "Sonu",
+    "phone_number": "5698785989",
+    "address": "VP Court Cryprn",
+    "types": "Smaller,Medium,Larger,XLarge,XXLarge",
+    "website": "www.qspider.com",
+    "language": "English"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/add/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Rakesh",
+    "phone_number": "9875689669",
+    "address": "XER Phase1 Git",
+    "website": "www.google.com",
+    "language": "English",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:15 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 194
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK",
+    "place_id": "7b9201ad9a4910e8428a4e3be0edeadd",
+    "scope": "APP",
+    "reference": "dc7cae71a65a953b3b38cd5a967b0b2adc7cae71a65a953b3b38cd5a967b0b2a",
+    "id": "dc7cae71a65a953b3b38cd5a967b0b2a"
+}
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=7b9201ad9a4910e8428a4e3be0edeadd
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=7b9201ad9a4910e8428a4e3be0edeadd
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "name": "Rakesh",
+    "phone_number": "9875689669",
+    "address": "XER Phase1 Git",
+    "website": "www.google.com",
+    "language": "English",
+    "location": {
+        "lat": -129.369,
+        "lng": 61.245
+    },
+    "accuracy": 145,
+    "types": [
+        "Smaller",
+        "Medium",
+        "Larger",
+        "XLarge",
+        "XXLarge"
+    ]
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:15 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 240
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "location": {
+        "latitude": "-129.369",
+        "longitude": "61.245"
+    },
+    "accuracy": "145",
+    "name": "Rakesh",
+    "phone_number": "9875689669",
+    "address": "XER Phase1 Git",
+    "types": "Smaller,Medium,Larger,XLarge,XXLarge",
+    "website": "www.google.com",
+    "language": "English"
+}
+Request method:	POST
+Request URI:	https://rahulshettyacademy.com/maps/api/place/delete/json?key=qaclick123
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "place_id": "7b9201ad9a4910e8428a4e3be0edeadd"
+}
+HTTP/1.1 200 OK
+Date: Sun, 26 May 2024 05:43:16 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: POST
+Access-Control-Max-Age: 3600
+Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, Authorization, X-Requested-With
+Content-Length: 15
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: application/json;charset=UTF-8
+
+{
+    "status": "OK"
+}
